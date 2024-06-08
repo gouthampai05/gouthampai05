@@ -23,3 +23,4 @@ I am currently building my skills in:
 
 - [LinkedIn](https://www.linkedin.com/in/goutham-pai-9a7818276/)
 - gouthampai05@gmail.com
+- [Twitter](https://x.com/goutham_pai)
