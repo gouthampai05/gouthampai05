@@ -8,7 +8,6 @@ I'm an aspiring cybersecurity professional with a special interest in cloud secu
 
 - **Cybersecurity**
 - **Cloud Security**
-- **Penetration Testing**
 - **DevSecOps**
 
 ## 📚 Learning Journey
